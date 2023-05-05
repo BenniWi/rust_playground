@@ -1,9 +1,5 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/rust:latest",
-
-  "customizations": {
-    "vscode": {
-      "extensions": [
+    "recommendations": [
         "donjayamanne.githistory",
         "mhutchie.git-graph",
         "zaaack.markdown-editor",
@@ -12,9 +8,6 @@
         "DavidAnson.vscode-markdownlint",
         "mdickin.markdown-shortcuts",
         "streetsidesoftware.code-spell-checker",
-        "streetsidesoftware.code-spell-checker-german",
         "1YiB.rust-bundle"
-      ]
-    }
-  }
+    ],
 }
