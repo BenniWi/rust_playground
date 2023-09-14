@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "donjayamanne.githistory",
+        "mhutchie.git-graph",
+        "zaaack.markdown-editor",
+        "ms-azuretools.vscode-docker",
+        "yzhang.markdown-all-in-one",
+        "DavidAnson.vscode-markdownlint",
+        "mdickin.markdown-shortcuts",
+        "streetsidesoftware.code-spell-checker",
+        "zerotaskx.rust-extension-pack"
+    ],
+}
